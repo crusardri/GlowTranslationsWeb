@@ -1,38 +1,38 @@
 ﻿function mainMenu() {
-	document.getElementById("main-menu").innerHTML = '<a href="gttest.tk/"><div class="top-menu-item">Inicio</div></a><div class="top-menu-item dropdown">Traducciones<div class="dropdown-content"><a href="stellaglow/gttest.tk/"><div class="dropdown-item" id="stella-dropdown"><img src="images/game-sg.jpg">Stella Glow <p class="state-dropdown">Finalizado</p></div></a><a href="gttest.tk/"><div class="dropdown-item" id="stella-dropdown"><img src="images/game-rf4.jpg">Rune Factory 4 <p class="state-dropdown">Empezando</p></div></a></div></div><a href="gttest.tk/"><div class="top-menu-item">Contacto</div></a><a href="gttest.tk/"><div class="top-menu-item">Miembros</div></a>';
+	document.getElementById("main-menu").innerHTML = '<a href="http://gttest.tk/"><div class="top-menu-item">Inicio</div></a><div class="top-menu-item dropdown">Traducciones<div class="dropdown-content"><a href="stellaglow/http://gttest.tk/"><div class="dropdown-item" id="stella-dropdown"><img src="images/game-sg.jpg">Stella Glow <p class="state-dropdown">Finalizado</p></div></a><a href="http://gttest.tk/"><div class="dropdown-item" id="stella-dropdown"><img src="images/game-rf4.jpg">Rune Factory 4 <p class="state-dropdown">Empezando</p></div></a></div></div><a href="http://gttest.tk/"><div class="top-menu-item">Contacto</div></a><a href="http://gttest.tk/"><div class="top-menu-item">Miembros</div></a>';
 	}
 function stellaGlowSubMenu() {	
-	document.getElementById("second-bar").innerHTML =  '<a href="gttest.tk/"><div class="logo"></div></a><div class="sub-menu"><a href="gttest.tk/"><div class="sub-menu-item">Información</div></a><a href="gttest.tk/"><div class="sub-menu-item">Progresos</div></a>				<a href="gttest.tk/"><div class="sub-menu-item">Galería</div></a>				<a href="gttest.tk/"><div class="sub-menu-item">Descargas</div></a>				<a href="gttest.tk/"><div class="sub-menu-item">Créditos</div></a></div>';
+	document.getElementById("second-bar").innerHTML =  '<a href="http://gttest.tk/"><div class="logo"></div></a><div class="sub-menu"><a href="http://gttest.tk/"><div class="sub-menu-item">Información</div></a><a href="http://gttest.tk/"><div class="sub-menu-item">Progresos</div></a>				<a href="http://gttest.tk/"><div class="sub-menu-item">Galería</div></a>				<a href="http://gttest.tk/"><div class="sub-menu-item">Descargas</div></a>				<a href="http://gttest.tk/"><div class="sub-menu-item">Créditos</div></a></div>';
 }
 function runeFactorySubMenu() {	
-	document.getElementById("second-bar").innerHTML =  '<a href="gttest.tk/"><div class="logo"></div></a><div class="sub-menu"><a href="gttest.tk/"><div class="sub-menu-item">Información</div></a><a href="gttest.tk/"><div class="sub-menu-item">Progresos</div></a>				<a href="gttest.tk/"><div class="sub-menu-item">Galería</div></a>				<a href="gttest.tk/"><div class="sub-menu-item">Descargas</div></a>				<a href="gttest.tk/"><div class="sub-menu-item">Créditos</div></a></div>';
+	document.getElementById("second-bar").innerHTML =  '<a href="http://gttest.tk/"><div class="logo"></div></a><div class="sub-menu"><a href="http://gttest.tk/"><div class="sub-menu-item">Información</div></a><a href="http://gttest.tk/"><div class="sub-menu-item">Progresos</div></a>				<a href="http://gttest.tk/"><div class="sub-menu-item">Galería</div></a>				<a href="http://gttest.tk/"><div class="sub-menu-item">Descargas</div></a>				<a href="http://gttest.tk/"><div class="sub-menu-item">Créditos</div></a></div>';
 }
 function noSubMenu() {	
-	document.getElementById("second-bar").innerHTML =  '<a href="gttest.tk/"><div class="logo"></div></a>';
+	document.getElementById("second-bar").innerHTML =  '<a href="http://gttest.tk/"><div class="logo"></div></a>';
 }
 function footer() {	
 	document.getElementById("footer").innerHTML =  'This is a nonprofit and public project by users for users. On this site you will not find any link to download the game or the demo, only the patch to translate the game into Spanish. ';
 }
 // Estructura del menu limpia ----------------
 //<div class="sub-menu">
-//				<a href="gttest.tk/"><div class="sub-menu-item">Información</div></a>
-//				<a href="gttest.tk/"><div class="sub-menu-item">Progresos</div></a>
-//				<a href="gttest.tk/"><div class="sub-menu-item">Galería</div></a>
-//				<a href="gttest.tk/"><div class="sub-menu-item">Descargas</div></a>
-//				<a href="gttest.tk/"><div class="sub-menu-item">Créditos</div></a>
+//				<a href="http://gttest.tk/"><div class="sub-menu-item">Información</div></a>
+//				<a href="http://gttest.tk/"><div class="sub-menu-item">Progresos</div></a>
+//				<a href="http://gttest.tk/"><div class="sub-menu-item">Galería</div></a>
+//				<a href="http://gttest.tk/"><div class="sub-menu-item">Descargas</div></a>
+//				<a href="http://gttest.tk/"><div class="sub-menu-item">Créditos</div></a>
 //			</div>
 
-//			<a href="gttest.tk/"><div class="top-menu-item">Inicio</div></a>
+//			<a href="http://gttest.tk/"><div class="top-menu-item">Inicio</div></a>
 //			<div class="top-menu-item dropdown">
 //				Traducciones
 //				<div class="dropdown-content">
-//					<a href="gttest.tk/"><div class="dropdown-item" id="stella-dropdown"><img src="images/game-sg.jpg">Stella Glow <p class="state-dropdown">Finalizado</p></div></a>
-//					<a href="gttest.tk/"><div class="dropdown-item" id="stella-dropdown"><img src="images/game-rf4.jpg">Rune Factory 4 <p class="state-dropdown">Empezando</p></div></a>
+//					<a href="http://gttest.tk/"><div class="dropdown-item" id="stella-dropdown"><img src="images/game-sg.jpg">Stella Glow <p class="state-dropdown">Finalizado</p></div></a>
+//					<a href="http://gttest.tk/"><div class="dropdown-item" id="stella-dropdown"><img src="images/game-rf4.jpg">Rune Factory 4 <p class="state-dropdown">Empezando</p></div></a>
 //		 	 </div>
 //			</div>
-//			<a href="gttest.tk/"><div class="top-menu-item">Contacto</div>
+//			<a href="http://gttest.tk/"><div class="top-menu-item">Contacto</div>
 //			</a>
-//			<a href="gttest.tk/"><div class="top-menu-item">Miembros</div></a>
+//			<a href="http://gttest.tk/"><div class="top-menu-item">Miembros</div></a>
 
 
 // Instrucciones de uso ------------------
