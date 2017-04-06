@@ -14,16 +14,11 @@
 		 <div class="main-menu" id="main-menu"></div>
 		<div class="second-bar" id="second-bar"><a href="http://gttest.tk/"><div class="logo"></div></a></div>
 		<div class="content-container">
-			<div class="content-title">¡Bienvenido!</div>
 			<div class="content">
-				¡Bienvenido a la página web de Glowtranslations!. <br><br>
-				En nuestra web encontraras todo el contenido que necesites. <br><br>
-				En el apartado de traducciones, encontraras las traducciones que hemos completado o se están llevando a cabo. <br><br>
-				En el apartado de contacto, podrás contactar con nosotros para cualquier duda, sugerencia o otro motivo. <br><br>
-				En el apartado de miembros, se localizan todos los miembros que participan en Glowtranslations. <br><br>
-				Recuerda que este es un equipo de traducciones sin ánimo de lucro y que cualquier parche se puede distribuir por cualquier medio posible, siempre y cuando se respeten los derechos de autor. <br><br>
-				Esperamos que disfrutes tanto de nuestras traducciones al español como de los juegos que estes jugando. <br><br>
-				Gracias por vuestro apoyo y un saludo de parte del equipo de Glowtranslations
+			<img src="http://gttest.tk/images/DescargaSTG.png">
+			<div class="content-title">Traducción juego completo Stella Glow</div>
+			<div class="content-title">Traducción demo Stella Glow</div>
+			<div class="content-title">Extras</div>
 			</div>
 		</div>
 		<div style="height:100px;"></div>
