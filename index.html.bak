@@ -1,6 +1,6 @@
 ﻿<head>
 	<title>Glow Translations</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="gttest.tk/style.css">
 	<link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet">
 	<meta charset="UTF-8">
 	<meta name="keywords" content="Stella Glow, Rune Factory, Traducciones, Scene, 3DS">
@@ -11,7 +11,7 @@
 	<div class="main-body">
 		<script src="menus.js"></script>
 		 <div class="main-menu" id="main-menu"></div>
-		<div class="second-bar" id="second-bar"><a href="index.html"><div class="logo"></div></a></div>
+		<div class="second-bar" id="second-bar"><a href="gttest.tk"><div class="logo"></div></a></div>
 		<div class="content-container">
 			<div class="content-title">¡Bienvenido!</div>
 			<div class="content">
