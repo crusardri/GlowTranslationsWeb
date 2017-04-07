@@ -48,7 +48,7 @@ body {
 	transition: background-color 0.1s;
 	cursor:pointer;
 	}
-.top-menu-item:hover {
+.top-menu-item:hover, body.inicio div.inicio, body.traducciones div.traducciones, body.contacto div.contacto, body.miembros div.miembros {
 	background-color: #4f7cfe;
 	border-radius: 5px 5px 0px 0px;
 	border-top: 1px solid #6c90f8;
@@ -99,7 +99,7 @@ body {
   float: left;
   transition: background-color 0.1s, border-top 0.1s, border-bottom 0.1s, border-left 0.1s, border-right 0.1s;
 	}
-.sub-menu-item:hover{
+.sub-menu-item:hover, {
 	background-color: #6289FC;
   border-bottom: 1px solid rgba(0,0,0,0.5);
   border-top: 1px solid rgba(255,255,255,0.5);
@@ -151,7 +151,7 @@ div.content {
 	bottom: 0px;
 	background: linear-gradient(#616161, #757575);
 	}	
-	/* menu deslizante */
+	/* dropdown menu */
 .dropdown {
     position: relative;
     display: inline-block;
@@ -186,7 +186,7 @@ div.content {
 	clear: both;
 	margin-bottom: 10px;
 	}
-.dropdown-item:hover {
+.dropdown-item:hover, body.inicio div.inicio {
 	border: 1px solid rgba(0,0,0,0.15);
 	border-radius: 5px;
 	box-shadow: 0 0px 5px rgba(0,0,0,0.5);
@@ -197,4 +197,4 @@ div.content {
 
 /* Highlight */
 
-body.inicio
+body.inicio div.inicio {}
