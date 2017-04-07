@@ -1,5 +1,19 @@
 ﻿a {text-decoration: none;}
-
+.content h1 {  
+	background-color: #fff;
+  border-radius: 0px 5px 5px 0px;
+  height: auto;
+  font-size: 20px;
+  padding: 10px 10px 10px 25px;
+  border-right: 1px solid rgba(0,0,0,0.25);
+	border-top: 1px solid rgba(0,0,0,0.25);
+	border-bottom: 1px solid rgba(0,0,0,0.25);
+	margin-left: -30px;
+	box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+	color: #000;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+	font-weight: normal;
+}
 body {
 	background-image: url("images/bg.jpg");
   background-position: center center;
@@ -50,7 +64,7 @@ body {
 	}
 .top-menu-item:hover, body.inicio div.inicio, body.traducciones div.traducciones, body.contacto div.contacto, body.miembros div.miembros {
 	background-color: #4f7cfe; 
-	background: linear-gradient(#4f7cfe, #6289FC);
+	background: linear-gradient(#6289FC, #4f7cfe);
 	border-radius: 5px 5px 0px 0px;
 	border-top: 1px solid #6c90f8;
 	border-bottom: 1px solid grey;
