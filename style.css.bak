@@ -48,7 +48,7 @@ body {
 	transition: background-color 0.1s;
 	cursor:pointer;
 	}
-.top-menu-item:hover, body.inicio div.inicio {
+.top-menu-item:hover {
 	background-color: #4f7cfe;
 	border-radius: 5px 5px 0px 0px;
 	border-top: 1px solid #6c90f8;
@@ -197,4 +197,4 @@ div.content {
 
 /* Highlight */
 
-body.inicio div.inicio {}
+body.inicio
