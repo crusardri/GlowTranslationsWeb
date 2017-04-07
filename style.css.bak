@@ -74,8 +74,8 @@ body {
 	background: linear-gradient(#6289FC, #4f7cfe);
 	border-radius: 5px 5px 0px 0px;
 	border-top: 1px solid rgba(255,255,255,0.5);
-	border-left: 1px solid rgba(0,0,0,0.5);
-	border-right: 1px solid rgba(0,0,0,0.5);
+	border-left: 1px solid rgba(0,0,0,0.25);
+	border-right: 1px solid rgba(0,0,0,0.25);
 	border-bottom: 1px solid grey;
 	transition: background-color 0s;
 	z-index: 1;
@@ -245,4 +245,51 @@ div.module div.content-title {
 	color: #000; 
 	margin-left: 0px;
 	margin-top: 15px;
+	}
+	
+/* members */
+.member-container {
+	width: 240px;
+	height: 320px;
+	border: 1px solid rgba(0,0,0,0.25);
+	border-radius: 5px;
+	box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+	float: left;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 25px;
+	background: linear-gradient(#888, #666, #888);
+	}
+.member-avatar {
+	width: 150px;
+	height: 150px;
+	margin: 10px auto 10px auto;
+	border-radius: 5px;
+	box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+	background-repeat: no-repeat;
+	background-size: 150px 150px;
+	}
+.member-name {
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;	
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+	color: #fff;
+	background-color: #ff4c4c;
+	height: 30px;
+	line-height: 30px;
+	box-shadow: 0px 0px 5px rgba(0,0,0,0.5);
+	border-top: rgba(255,255,255,0.5);
+	border-bottom: rgba(0,0,0,0.5);
+	border-left: rgba(0,0,0,0.5);
+	border-right: rgba(0,0,0,0.5);
+	width: 260px;
+	margin-left: -10px;
+	border-radius: 5px;
+	}
+.member-desc {
+	text-align: center;
+	font-size: 18px;
+	line-height: 22px;
+	margin-top: 5px;
 	}
