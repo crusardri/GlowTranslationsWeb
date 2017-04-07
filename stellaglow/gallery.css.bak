@@ -13,7 +13,7 @@
   width: 200px;
   height: 180px;
 }
-.column > img {width: 200px;}
+.column > img {width: 200px; cursor: pointer;}
 .gallery-thumbs > div.column {width: 120px; max-height: 90px; margin-right: 5px; margin-bottom: 10px;}
 
 /* The Modal (background) */
@@ -112,7 +112,6 @@ img.demo {
   opacity: 0.6;
   width: 120px;
   margin-bottom: 20px;
-  max-height: 72px;
 }
 
 .active,
