@@ -291,3 +291,21 @@ div.module div.content-title {
 	line-height: 22px;
 	margin-top: 5px;
 	}
+/* credits */ 
+.credits-container {
+	width: 130px;
+	float: left;
+	}
+div.credits-avatar > img {
+	display: block;
+	margin: auto;
+	border-radius: 5px;
+	}
+.credits-name {
+	font-size: 20px;
+	text-align: center;
+	}
+.credits-desc {
+	text-align: center;
+	font-size: 14px;
+	}
