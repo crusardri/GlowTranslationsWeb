@@ -1,6 +1,6 @@
 ﻿<head>
 	<title>Glow Translations</title>
-	<link rel="stylesheet" type="text/css" href="http://gttest.tk/style.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
 	<link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet">
 	<meta charset="UTF-8">
 	<meta name="keywords" content="Stella Glow, Rune Factory, Traducciones, Scene, 3DS">
@@ -28,7 +28,8 @@
 				Posiblemente tenga errores de gramatica, alguna que otra frase en un español que no sea neutro, o alguna palabra fuera de contexto, pero no somos profesionales, asi que es normal.<br>
 				Si encuentras un error, mira en la seccion "Contacto" para contactar con nosotros y reportarlo, te responderemos lo antes posible.
 				<h1>¡A disfrutar!</h1>
-				Si estas aqui es porque te interesa algun juego que hemos traducido o porque nos quieres hacer una reclamacion de derechos de autor, en cualquier caso, en la seccion de traducciones tienes todos nuestros proyectos con links de descarga de los parches para traducir el juego. <br> ¡Asi que a disfrutar!
+				Si estas aqui es porque te interesa algun juego que hemos traducido o porque nos quieres hacer una reclamacion de derechos de autor, en cualquier caso, en la seccion de traducciones tienes todos nuestros proyectos con links de descarga de los parches para traducir el juego. <br> 
+				<p style="text-align: center; font-size: 24px; font-weight: bold; text-decoration: underline;">¡Asi que a disfrutar!</p>
 				
 				
 			</div>
