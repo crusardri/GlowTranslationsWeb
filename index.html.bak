@@ -1,6 +1,6 @@
 ﻿<head>
 	<title>Glow Translations</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="http://gttest.tk/style.css">
 	<link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet">
 	<meta charset="UTF-8">
 	<meta name="keywords" content="Stella Glow, Rune Factory, Traducciones, Scene, 3DS">
@@ -34,9 +34,9 @@
 				
 			</div>
 		</div>
-		<div class="twitter-module">
+		<div class="module" style="width: 260px;">
 			<div class="content-container">
-				<div class="module-title-background">
+				<div class="module-title-background" style="background-image: url('images/twitter-banner.png');">
 				<div class="content-title">Twitter</div>
 				</div>
 				<a class="twitter-timeline"  href="https://twitter.com/GlowTranslate" data-widget-id="714152992530960386">Tweets por el @GlowTranslate.</a>

@@ -210,20 +210,18 @@ div.content {
 .dropdown-item img {float: left; margin-right: 5px;}
 .state-dropdown {font-weight: 400; font-style: italic; font-size: 12px;}
 
-/* twitter moduloe */
+/* twitter module */
 
-div.twitter-module {
-	width: 260px;
+div.module {
 	float: right;
 	position: relative;
 	}
-div.twitter-module div.content-container {padding-top: 80px; border-radius: 6px 6px 5px 5px;}
+div.module div.content-container {padding-top: 80px; border-radius: 6px 6px 5px 5px;}
 div.module-title-background{
 	width: 100%;
 	z-index: 0;
 	height: 80px;
-	background-image: url('images/twitter-banner.png');
-	background-position: center center;
+	background-position: right center;
 	background-repeat: no-repeat;
 	padding: 0px;
 	border-radius: 5px 5px 0px 0px;
@@ -232,12 +230,11 @@ div.module-title-background{
 	top: 0px;
 
 	}
-div.twitter-module div.content-title {
+div.module div.content-title {
 	background: #fff; 
 	margin-bottom: 10px; 
 	font-size: 20px; 
 	color: #000; 
-	width: 80px; 
 	margin-left: 0px;
 	margin-top: 15px;
 	}
