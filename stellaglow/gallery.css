@@ -11,10 +11,11 @@
 .column {
   float: left;
   width: 200px;
-  height: 180px;
+  height: 160px;
 }
 .column > img {width: 200px; cursor: pointer;}
 .gallery-thumbs > div.column {width: 120px; max-height: 90px; margin-right: 5px; margin-bottom: 10px;}
+.row > .column > img {border-radius: 5px;}
 
 /* The Modal (background) */
 .modal {
@@ -124,5 +125,6 @@ img.hover-shadow {
 }
 
 .hover-shadow:hover {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: black;
 }
