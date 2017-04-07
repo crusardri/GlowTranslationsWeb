@@ -44,7 +44,7 @@ body {
 	text-shadow: 1px 1px 1px #000;
 	display: inline-block;
 	margin-top: 9px; 
-	margin-right: 0px;
+	margin-right: 1px;
 	transition: background-color 0.1s;
 	cursor:pointer;
 	}
