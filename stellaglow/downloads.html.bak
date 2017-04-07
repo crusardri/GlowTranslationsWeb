@@ -7,8 +7,8 @@
 	<meta name="keywords" content="Stella Glow, Rune Factory, Traducciones, Scene, 3DS">
 	<meta name="description" content="Pagina oficial de Glow translations, traducciones FAN de juegos.">
 	<meta name="author" content="Crusardgameamos">
-</head>
-<body onload="mainMenu(), stellaGlowSubMenu(), footer()">
+</head> 
+<body onload="mainMenu(), stellaGlowSubMenu(), footer()" class="descargas">
 	<div class="main-body">
 		<script src="http://gttest.tk/menus.js"></script>
 		 <div class="main-menu" id="main-menu"></div>
