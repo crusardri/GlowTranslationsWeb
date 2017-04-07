@@ -73,7 +73,9 @@ body {
 	background-color: #4f7cfe; 
 	background: linear-gradient(#6289FC, #4f7cfe);
 	border-radius: 5px 5px 0px 0px;
-	border-top: 1px solid #6c90f8;
+	border-top: 1px solid rgba(255,255,255,0.5);
+	border-left: 1px solid rgba(0,0,0,0.5);
+	border-right: 1px solid rgba(0,0,0,0.5);
 	border-bottom: 1px solid grey;
 	transition: background-color 0s;
 	z-index: 1;

@@ -20,7 +20,7 @@
 	color: #fff;
 	}
 .content a {color: #6289FC;}
-.content a:hover {color: #444; text-decoration: underline;}
+.content a:hover {color: #666; text-decoration: underline;}
 body {
 	background-image: url("images/bg.jpg");
   background-position: center center;
