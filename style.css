@@ -99,7 +99,7 @@ body {
   float: left;
   transition: background-color 0.1s, border-top 0.1s, border-bottom 0.1s, border-left 0.1s, border-right 0.1s;
 	}
-.sub-menu-item:hover, {
+.sub-menu-item:hover, body.informacion div.informacion, body.progresos div.progresos, body.galeria div.galeria, body.descargas div.descargas, body.creditos div.creditos {
 	background-color: #6289FC;
   border-bottom: 1px solid rgba(0,0,0,0.5);
   border-top: 1px solid rgba(255,255,255,0.5);
@@ -186,10 +186,11 @@ div.content {
 	clear: both;
 	margin-bottom: 10px;
 	}
-.dropdown-item:hover, body.informacion div.informacion, body.progresos div.progresos, body.galeria div.galeria, body.descargas div.descargas, body.creditos div.creditos {
+.dropdown-item:hover {
 	border: 1px solid rgba(0,0,0,0.15);
 	border-radius: 5px;
 	box-shadow: 0 0px 5px rgba(0,0,0,0.5);
+	
 	}
 .dropdown-item img {float: left; margin-right: 5px;}
 .state-dropdown {font-weight: 400; font-style: italic; font-size: 12px;}
