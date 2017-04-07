@@ -22,6 +22,7 @@
 	min-width: 300px;
 	line-height: 50px;
 	clear: both;
+	font-size: 16px;
 	}
 .download-buttons {display: inline-block; float:right; height: 40px; padding-top: 10px}
 .download-buttons > a > div {

@@ -23,7 +23,7 @@
 	line-height: 50px;
 	clear: both;
 	}
-.download-buttons {display: inline-block; float:right; height: 50px;}
+.download-buttons {display: inline-block; float:right; height: 40px; padding-top: 10px}
 .download-buttons > a > div {
 	min-width: 100px;
 	height: 30px;
