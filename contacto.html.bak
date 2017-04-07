@@ -22,8 +22,8 @@
 				Si quieres compartir algo con nosotros, puedes hacerlo en twitter o en el hilo oficial de GlowTranslatios en ElOtroLado.net. 
 			</div>
 		</div>
-		<div class="module" style="width: 290px; margin-top: 20px; margin-left: 40px; height: 120px;">
-			<div class="content-container">
+		<div class="module" style="width: 290px; margin-top: 20px; margin-left: 40px;">
+			<div class="content-container" style="height: 120px;">
 				<div class="module-title-background" style="background-image: url('images/twitter-banner.png');">
 				<div class="content-title" style="width: 80px;">Twitter</div>
 				</div>
@@ -32,16 +32,16 @@
 					<a href="http://www.twitter.com/glowtranslate">Visitanos en twitter. @glowtranslate</a></p>
 			</div>
 		</div>
-		<div class="module" style="width: 290px; margin-top: 20px; margin-left: 40px; height: 120px;">
-			<div class="content-container">
+		<div class="module" style="width: 290px; margin-top: 20px; margin-left: 40px;">
+			<div class="content-container" style="height: 120px;">
 				<div class="module-title-background" style="background-image: url('images/eol-banner.png');">
 				<div class="content-title" style="width: 50px;">Foro</div>
 				</div>
 					<p style="font-size: 14px;">Visita el <a href="http://www.elotrolado.net/hilo_hilo-oficial-traduccion-del-stella-glow-al-espanol_2150612">hilo oficial</a> de la traducción de Stella<br /> Glow para saber más y/o comentar o preguntar cualquier cosa. <br /><a href="http://www.elotrolado.net/hilo_hilo-oficial-traduccion-del-stella-glow-al-espanol_2150612">¡Comenta en EOL!</a></p>
 			</div>
 		</div>
-		<div class="module" style="width: 290px; margin-top: 20px; height: 120px;">
-			<div class="content-container">
+		<div class="module" style="width: 290px; margin-top: 20px;">
+			<div class="content-container" style="height: 120px;">
 				<div class="module-title-background" style="background-image: url('images/email-banner.png');">
 				<div class="content-title" style="width: 60px;">eMail</div>
 				</div>
