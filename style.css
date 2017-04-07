@@ -50,7 +50,7 @@ body {
 	}
 .top-menu-item:hover, body.inicio div.inicio, body.traducciones div.traducciones, body.contacto div.contacto, body.miembros div.miembros {
 	background-color: #4f7cfe; 
-	background: linear-gradient(#4f7cfe, #6289FC);
+	background: linear-gradient(#6289FC, #4f7cfe);
 	border-radius: 5px 5px 0px 0px;
 	border-top: 1px solid #6c90f8;
 	border-bottom: 1px solid grey;
