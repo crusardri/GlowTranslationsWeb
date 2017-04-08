@@ -8,7 +8,7 @@
 	<meta name="description" content="Pagina oficial de Glow translations, traducciones FAN de juegos.">
 	<meta name="author" content="Crusardgameamos">
 </head> 
-<body>
+<body onload="mainMenu(), stellaGlowSubMenu(), footer()" class="galeria traducciones">
 	<script>
 		function openModal() {
  		 document.getElementById('myModal').style.display = "block";
@@ -48,6 +48,7 @@
 	}
 	</script>
 	<div class="main-body">
+		<script src="http://gttest.tk/menus.js"></script>
 		 <div class="main-menu" id="main-menu"></div>
 		<div class="second-bar" id="second-bar"><a href="http://gttest.tk/"><div class="logo"></div></a></div>
 		<div class="content-container">
@@ -214,6 +215,5 @@
 		</div>
 		<div style="height:100px;"></div>
 		<div class="footer" id="footer"></div>
-		<script src="http://gttest.tk/menus.js" onload="mainMenu(), noSubMenu(), footer()" class="contacto"></script>
 	</div>
 </body>
